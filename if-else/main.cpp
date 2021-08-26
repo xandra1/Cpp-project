@@ -6,7 +6,6 @@ int main() {
 
    cin >> number;
 
-   /* Your solution goes here  */
    if (number % 2 == 0) {
        cout << "Even";
    }
