@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    string path = "C:/Users/User/Documents/Personal/Documents/Lectures/SEM2/DCIT104/Lab Sessions/alexa/users/";
+    string path = "PATH-TO-STORE-TO";
    string firstname;
    string lastname;
    string username;
