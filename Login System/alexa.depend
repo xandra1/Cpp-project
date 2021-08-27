@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630086125 source:c:\users\user\documents\personal\documents\lectures\sem2\dcit104\lab sessions\alexa\main.cpp
+	<iostream>
+	<fstream>
+
