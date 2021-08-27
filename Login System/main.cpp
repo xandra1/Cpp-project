@@ -45,7 +45,7 @@ int main()
     }else if(nationality != "America"){
         cout << "Sorry your nationality does not qualified to register."<< endl;
     }else{
-    //creating file to store data
+    //creating file to store USER data
        ofstream MyFile(path+username+".txt");
        //writing user data to username.txt
         MyFile << username << endl;
