@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626448481 source:c:\users\alexa\desktop\numbers\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
