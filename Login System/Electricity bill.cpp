@@ -53,15 +53,15 @@ int main()
 
         cout << "Name: " << customerName << endl;
 
-        cout << "Quantity of Electricity Consumed: " << quantityOfElectricity << endl;
+        cout << "Quantity of Electricity Consumed: " << quantityOfElectricity << " KW" << endl;
 
         cout << "Category: " << category << endl;
 
-        cout << "1% Rural Electrification charge: " << ruralElectrification << endl;
+        cout << "1% Rural Electrification charge: " << "Ghc " << ruralElectrification << endl;
 
-        cout << "50% Government subsidy: " << government_subsidy << endl;
+        cout << "50% Government subsidy: " << "Ghc " << government_subsidy << endl;
 
-       cout << "Total amount for the month: " << payable_amount << endl;
+       cout << "Total amount for the month: " << "Ghc " << payable_amount << endl;
 
 
 
