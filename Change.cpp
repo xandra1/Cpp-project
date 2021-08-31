@@ -13,17 +13,17 @@ int main() {
   int numOnes;
     
   
-    cin >> amountToChange;
+      cin >> amountToChange;
 
-    numFives = amountToChange / 5;
+      numFives = amountToChange / 5;
 
       int amountLeft = amountToChange % 5;
 
       numOnes = amountLeft / 1;
 
 
-     cout << "numFives: " << numFives << endl;
-     cout << "numOnes: " << numOnes << endl;
+      cout << "numFives: " << numFives << endl;
+      cout << "numOnes: " << numOnes << endl;
 
 
 
