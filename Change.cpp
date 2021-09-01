@@ -14,11 +14,9 @@ int main() {
     
   
       cin >> amountToChange;
-
       numFives = amountToChange / 5;
 
       int amountLeft = amountToChange % 5;
-
       numOnes = amountLeft / 1;
 
 
@@ -26,6 +24,6 @@ int main() {
       cout << "numOnes: " << numOnes << endl;
 
 
-
+   
     return 0;
 }
