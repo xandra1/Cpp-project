@@ -16,6 +16,7 @@ int main() {
    cin >> shipWeightPounds;   //Accepting weight of item(lbs) from user into shipWeightPounds variable
    shipCostCents = (CENTS_PER_POUND * shipWeightPounds) + FLAT_FEE_CENTS; //Calculating total cost_per_cent
    
+   //Final Output
    cout << "Weight(lb): " << shipWeightPounds;
 
    cout << ", Flat fee(cents): " << FLAT_FEE_CENTS;
