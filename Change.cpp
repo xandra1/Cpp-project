@@ -3,16 +3,12 @@ using namespace std;
 
 
 int main() {
-   
-  
   
   int amountToChange;
-  
   int numFives;
-  
   int numOnes;
     
-  
+      cout << "Enter amount to be changed: "; 
       cin >> amountToChange;
       numFives = amountToChange / 5;
 
