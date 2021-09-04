@@ -16,8 +16,8 @@ int main() {
       numOnes = amountLeft / 1;
 
 
-      cout << "numFives: " << numFives << endl;
-      cout << "numOnes: " << numOnes << endl;
+      cout << "Number of five dollars: " << numFives << endl;
+      cout << "Number of one dollar: " << numOnes << endl;
 
 
    
