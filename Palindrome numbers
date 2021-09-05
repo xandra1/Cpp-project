@@ -20,7 +20,7 @@ bool isPalindrome(int n){
 
 }
  
-//
+//This tells if the number is palindrome //
 int main()
 {
     int n;
