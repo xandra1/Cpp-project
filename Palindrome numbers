@@ -2,6 +2,8 @@
 
 using namespace std;
 
+
+// this checks whether the number is palindrome
 bool isPalindrome(int n){
  int reversed = 0, lastDigit, num = n;
     while (num !=0){
@@ -9,13 +11,16 @@ bool isPalindrome(int n){
         reversed = reversed * 10 + lastDigit;
         num/=10;
     }
-    if(n == reversed){
+   
+
+     if(n == reversed){
         return true;
     }
     return false;
 
 }
-
+ 
+//
 int main()
 {
     int n;
