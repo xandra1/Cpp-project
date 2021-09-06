@@ -57,7 +57,8 @@ int main()
         MyFile << birthDate << endl;
         MyFile << age << endl;
         MyFile << nationality << endl;
-
+     
+        // this appears if the user qualifies to be registered
         cout << "Account created successsfully" <<endl;
         MyFile.close();
     }
