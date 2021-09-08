@@ -4,6 +4,8 @@ using namespace std;
 int main() {
    int number;
    
+
+ //Receives number to be tested
    cout << "Enter the number ";
    cin >> number;
 
