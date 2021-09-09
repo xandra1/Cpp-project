@@ -17,7 +17,7 @@ int main()
    int age;
    string nationality;
 
-    // collectinig user's details
+    // collecting user's details
    cout << "Enter first name: ";
    cin >> firstname;
    cout << "Enter last name: ";
