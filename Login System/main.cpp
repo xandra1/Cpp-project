@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Creating a string variable to store user's details
 int main()
 {
     string path = "PATH-TO-STORE-TO";
