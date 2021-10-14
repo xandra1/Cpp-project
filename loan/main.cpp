@@ -21,9 +21,10 @@ int main;
     payment1 = input * 0.1;
     remainder= input - payment1;
 
+    //payment for the second month//
     payment2= remainder * 0.1;
     remainder= remainder - payment2;
-
+    //payment for the third month//
     payment3= remainder * 0.1;
     remainder= remainder - payment3;
 
