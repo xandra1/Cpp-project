@@ -16,6 +16,8 @@ int main;
     cin >> input;
 
     //monthly payment schedule//
+
+    //payment for the first month//
     payment1 = input * 0.1;
     remainder= input - payment1;
 
