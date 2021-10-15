@@ -29,7 +29,7 @@ int main;
     remainder= remainder - payment3;
 
     output = remainder;
+    cout << "Amount payable after three months is: ";
     cout << output;
-
     return 0;
 }
