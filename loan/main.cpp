@@ -12,6 +12,7 @@ int main;
     int remainder;
     int output;
 
+    //Requesting for amount of loan//
     cout << "Enter amount of loan: ";
     cin >> input;
 
