@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 // this checks whether the number is palindrome
 bool isPalindrome(int n){
  int reversed = 0, lastDigit, num = n;
