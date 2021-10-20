@@ -4,10 +4,10 @@ using namespace std;
 
    int isfactorial(int n){
    
-    if( n ==1){
+      if( n ==1){
         return n;
         
-    }else{
+          }else{
        
         return isfactorial(n-1)*n;
     }
