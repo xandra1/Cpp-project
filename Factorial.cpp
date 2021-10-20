@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int isfactorial(int n){
+   int isfactorial(int n){
    
     if( n ==1){
         return n;
@@ -12,10 +12,10 @@ int isfactorial(int n){
         return isfactorial(n-1)*n;
     }
 
-}
+   }
 
 
-int main()
+  int main()
 {
     int n;
     cin >> n;
