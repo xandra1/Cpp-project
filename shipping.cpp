@@ -19,11 +19,8 @@ int main() {
    
    //Final Output
    cout << "Weight(lb): " << shipWeightPounds;
-
    cout << ", Flat fee(cents): " << FLAT_FEE_CENTS;
-
    cout << ", Cents per lb: " << CENTS_PER_POUND << endl;
-
    cout << "Shipping cost(cents): " << shipCostCents << endl;
 
    return 0;
