@@ -14,8 +14,8 @@ bool isPalindrome(int n){
      if(n == reversed){
         return true;
     }
+    
     return false;
-
 }
  
 //This tells if the number is palindrome //
