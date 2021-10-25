@@ -29,7 +29,6 @@ void binary()
     }
 
    // the for loop prints the remainders from reverse
-
     {
 
    for (int j = i - 1; j >= 0; j--)
