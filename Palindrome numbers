@@ -17,7 +17,9 @@ bool isPalindrome(int n){
     
     return false;
 }
- 
+   
+
+
 //This tells if the number is palindrome //
 int main()
 {
