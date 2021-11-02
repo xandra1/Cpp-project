@@ -33,6 +33,5 @@ int main;
     cout << "Amount payable after three months is: ";
     cout << output;
    
-
     return 0;
 }
