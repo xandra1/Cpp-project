@@ -7,6 +7,7 @@ int main() {
   int numFives;
   int numOnes;
     
+      // Collecting data
       cout << "Enter amount to be changed: "; 
       cin >> amountToChange;
       numFives = amountToChange / 5;
