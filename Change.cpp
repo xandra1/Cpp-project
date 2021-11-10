@@ -18,6 +18,5 @@ int main() {
       // The  maximum number of five dollar bills, followed by one dollar bills to be received.
       cout << "Number of five dollars: " << numFives << endl;
       cout << "Number of one dollar: " << numOnes << endl;
-   
-    return 0;
+   return 0;
 }
