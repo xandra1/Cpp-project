@@ -69,7 +69,6 @@ void octal()
 
 }
 
-
 int convertBinarytoOctal(long long binaryNumber)
 {
     int octalNumber = 0, decimalNumber = 0, i = 0;
