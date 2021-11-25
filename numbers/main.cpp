@@ -181,7 +181,6 @@ void program()
 
 }
 
-
 int convertBinarytoOctal(long long);
 int main()
 {
