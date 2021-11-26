@@ -92,7 +92,6 @@ int convertBinarytoOctal(long long binaryNumber)
     return octalNumber;
 }
 
-
 //This function executes decimal to hexadecimal convertion
 void hexadecimal()
 {
