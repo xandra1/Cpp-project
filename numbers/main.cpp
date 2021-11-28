@@ -18,7 +18,6 @@ void binary()
    cout << endl;
 
    // this loop repeates the process of storing the remainders in the array
-
    while ( decimal >= 1)
    {
        binary[i] = decimal % 2;
