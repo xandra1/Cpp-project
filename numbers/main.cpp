@@ -188,5 +188,6 @@ int main()
 
     cout << binaryNumber << " in binary = " << convertBinarytoOctal(binaryNumber) << " in octal ";
 
+
     return 0;
 }
