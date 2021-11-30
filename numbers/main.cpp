@@ -23,7 +23,6 @@ void binary()
        binary[i] = decimal % 2;
        decimal /= 2;
        i ++;
-
     }
 
    // the for loop prints the remainders from reverse
