@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 //this function executes decimal to binary operation
 void binary()
 {
