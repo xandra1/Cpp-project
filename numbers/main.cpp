@@ -63,7 +63,6 @@ void octal()
         cout << octal[j] ;
         cout << endl;
     }
-
 }
 
 int convertBinarytoOctal(long long binaryNumber)
