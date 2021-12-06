@@ -56,7 +56,6 @@ void octal()
 
          i++;
      }
-
     {
      for(int j = i - 1; j >= 0; j--)    //This for loop reads stored values in the array in reverse
 
