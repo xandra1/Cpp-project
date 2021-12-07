@@ -172,7 +172,6 @@ void program()
      {
          cout << "Invalid response!! \n";
      }
-
 }
 
 int convertBinarytoOctal(long long);
