@@ -12,7 +12,6 @@ void binary()
 
    int decimal;         // users input is stored in this decimal variable
 
-
    cout << "You are about to convert from decimals to binary.\n\n";
    cout << "Please enter decimal number: ";
    cin >> decimal;
