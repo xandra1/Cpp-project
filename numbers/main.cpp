@@ -34,6 +34,7 @@ void binary()
         cout << endl;
     }
 }
+
 //This function executes decimal to octal convertion
 void octal()
 {
