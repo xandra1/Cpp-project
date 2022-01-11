@@ -17,6 +17,7 @@ void binary()
    cin >> decimal;
    cout << endl;
 
+
    // this loop repeates the process of storing the remainders in the array
    while ( decimal >= 1)
    {
